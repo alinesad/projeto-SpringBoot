@@ -20,3 +20,8 @@ Spring Boot Application Development for my study of:
 
 # :hammer: Data Base MySql
 MySql
+
+# Author
+
+| [<img src="https://avatars.githubusercontent.com/u/68134083?s=40&v=4" width=115><br><sub>Aline Divino</sub>](https://github.com/alinesad) 
+| :---: | :---: | :---: | 
