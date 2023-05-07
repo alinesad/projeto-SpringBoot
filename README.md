@@ -4,15 +4,15 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-# :hammer: Objetivo do projeto
-Desenvolvimento de Aplicação Spring Boot para estudo de:
-Boas praticas para API's RESTful Web Service;
-Spring Boot 3, 
-Lombok, 
-Autenticação usando JWT,
+# :hammer: Purpose
+Spring Boot Application Development for my study of:
+Good practices for API's RESTful Web Service;
+Spring Boot 3,
+Lombok,
+Authentication using JWT,
 Java 17,
-Data JPA,
-Flyway Migrations.
+Date JPA,
+Flyway Migrations and JUnit
 
-# :hammer: Dados de Banco
-Banco de Dados clinicpisic_api
+# :hammer: Data Base MySql
+MySql
