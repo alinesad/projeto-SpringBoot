@@ -20,7 +20,6 @@ import org.springframework.mock.web.MockHttpServletResponse;
 import org.springframework.security.test.context.support.WithMockUser;
 import org.springframework.test.web.servlet.MockMvc;
 import com.authorizer.application.domain.card.CardData;
-import com.authorizer.application.domain.card.CardDetailData;
 import com.authorizer.application.domain.security.AuthorizeTransactionData;
 
 /**
@@ -35,9 +34,6 @@ class CardAuthorizerControllerTest {
   
   @Autowired
   private JacksonTester<CardData> cardDataJson;
-  
-  @Autowired
-  private JacksonTester<CardDetailData> cardDetailDataJson;
   
   
   @Autowired

@@ -17,7 +17,6 @@ import org.springframework.http.MediaType;
 import org.springframework.mock.web.MockHttpServletResponse;
 import org.springframework.security.test.context.support.WithMockUser;
 import org.springframework.test.web.servlet.MockMvc;
-import com.authorizer.application.domain.user.DetaildeUserData;
 import com.authorizer.application.domain.user.UserAuthenticationData;
 
 /**
@@ -35,8 +34,6 @@ class AutenticationControllerTest {
   @Autowired
   private JacksonTester<UserAuthenticationData> userAuthenticationDataJson;
 
-  @Autowired
-  private JacksonTester<DetaildeUserData> detaildeUserDataJson;
 
   /**
    * Test method for

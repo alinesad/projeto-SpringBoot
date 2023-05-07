@@ -4,7 +4,6 @@
 package com.authorizer.application.domain.user;
 
 import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.Pattern;
 
 /**
  * Record for User Authentication Data

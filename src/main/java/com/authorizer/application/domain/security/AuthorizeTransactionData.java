@@ -4,7 +4,6 @@
 package com.authorizer.application.domain.security;
 
 import java.math.BigDecimal;
-import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.NotBlank;
 
 /**

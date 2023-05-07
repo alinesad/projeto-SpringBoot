@@ -33,7 +33,7 @@ public class HandleError {
   }
 
   @ExceptionHandler(MethodArgumentNotValidException.class)
-  public ResponseEntity handleError400(MethodArgumentNotValidException ex) {
+  public ResponseEntity<List<ValidationErrorData>> handleError400(MethodArgumentNotValidException ex) {
 
     List<FieldError> errors = ex.getFieldErrors();
 
