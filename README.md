@@ -27,8 +27,10 @@ API com autenticação via JWT token para  Cadastro de usuário: http://localhos
 API com autenticação via JWT token para Listagem de usuários cadastrados: http://localhost:8080/user/list
 API com autenticação via JWT token para listagem de Cartões: http://localhost:8080/card
 
-http://localhost:8080/swagger-ui.html 
-http://localhost:8080/v3/api-docs
+
+- `  http://localhost:8080/swagger-ui.html`
+- - ` http://localhost:8080/v3/api-docs`
+
 
 
 
