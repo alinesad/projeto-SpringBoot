@@ -23,11 +23,12 @@ MySql (create database Cards_api;)
 
 # :hammer: DAPI's REST
 API de Login que retorna token JWT para users autorizados: http://localhost:8080/user/login
-API para Cadastro de usuário: http://localhost:8080/user/new
-API para Listagem de usuários cadastrados: http://localhost:8080/user/list
-API para listagem de Cartões: http://localhost:8080/card
+API com autenticação via JWT token para  Cadastro de usuário: http://localhost:8080/user/new
+API com autenticação via JWT token para Listagem de usuários cadastrados: http://localhost:8080/user/list
+API com autenticação via JWT token para listagem de Cartões: http://localhost:8080/card
 
-
+http://localhost:8080/swagger-ui.html 
+http://localhost:8080/v3/api-docs
 
 
 
