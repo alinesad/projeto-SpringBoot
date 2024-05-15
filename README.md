@@ -21,6 +21,15 @@ Spring Boot Application Development for my study of:
 # :hammer: Data Base MySql
 MySql (create database Cards_api;)
 
+# :hammer: DAPI's REST
+API de Login que retorna token JWT para users autorizados: http://localhost:8080/user/login
+API para Cadastro de usuário: http://localhost:8080/user/new
+API para Listagem de usuários cadastrados: http://localhost:8080/user/list
+API para listagem de Cartões: http://localhost:8080/card
+
+
+
+
 
 # Author
 
