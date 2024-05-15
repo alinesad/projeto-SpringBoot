@@ -19,7 +19,8 @@ Spring Boot Application Development for my study of:
 
 
 # :hammer: Data Base MySql
-MySql
+MySql (create database Cards_api;)
+
 
 # Author
 
